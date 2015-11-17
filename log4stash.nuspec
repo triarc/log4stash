@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <metadata>
-    <id>log4stash</id>
+    <id>log4stash.triarc</id>
     <version>1.1.0</version>
     <authors>urielha</authors>
     <owners>urielha</owners>
